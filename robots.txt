@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.helanix.com/sitemap.xml
+Sitemap: https://elalejo-osorio.github.io/helanix/sitemap.xml
